@@ -3,8 +3,8 @@
   "short_name": "La Table",
   "start_url": "./fr",
   "display": "standalone",
-  "background_color": "#b2614b",
-  "theme_color": "#b2614b",
+  "background_color": "#a04735",
+  "theme_color": "#a04735",
   "icons": [
     {
       "src": "web-app-icon-192.png",
